@@ -82,7 +82,16 @@ Mainly performed using Matplotlib and Seaborn library and the following graph an
 * Heatmap.
 * Box Plot
 
+## Developed ML Models:
+```
+1. Logistic Regression
+2. K-Nearest Neighbor sClassifier
+3. Decision Tree Classifier
+4. Random Forest Classifier
+```
+
 ## Conclusion
+### EDA
 ```(1) Around 60% bookings are for City hotel and 40% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel. Also the overall adr of City hotel is slightly higher than Resort hotel.
 (2) Mostly guests stay for less than 5 days in hotel and for longer stays Resort hotel is preferred.
 (3) Both hotels have significantly higher booking cancellation rates and very few guests less than 3 % return for another booking in City hotel. 5% guests return for stay in Resort hotel.
@@ -91,7 +100,10 @@ Mainly performed using Matplotlib and Seaborn library and the following graph an
 (6) Almost 30% of bookings via TA/TO are cancelled.
 and many more...
 ```
-
+### ML
+```
+So I got an accuracy score of 97 % using the Random Forest Classifier which is highest among all models
+```
 ## Challenges 
 ```
 (1) A lot of the data were duplicates.
