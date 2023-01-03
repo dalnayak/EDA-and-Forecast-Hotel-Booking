@@ -1,6 +1,6 @@
 # EDA  and ML Project on Hotel Booking Analysis
 ## Objective
-My major goal is to conduct EDA on the provided dataset and make insightful inferences about broad hotel booking trends and how different components interact. Also to apply ML to predict possibility of booking.
+My major goal is to conduct EDA on the hotel booking dataset and make insightful inferences about broad hotel booking trends and how different components interact. Also to apply ML to predict possibility of booking.
 ## Data Set
 A dataset of hotel reservations is downloaded from Kaggle. A city hotel and a resort hotel's reservations are included in this dataset. The following characteristics are present. 
 
