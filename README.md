@@ -92,7 +92,8 @@ Mainly performed using Matplotlib and Seaborn library and the following graph an
 
 ## Conclusion
 ### EDA
-```(1) Around 60% bookings are for City hotel and 40% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel. Also the overall adr of City hotel is slightly higher than Resort hotel.
+```
+(1) Around 60% bookings are for City hotel and 40% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel. Also the overall adr of City hotel is slightly higher than Resort hotel.
 (2) Mostly guests stay for less than 5 days in hotel and for longer stays Resort hotel is preferred.
 (3) Both hotels have significantly higher booking cancellation rates and very few guests less than 3 % return for another booking in City hotel. 5% guests return for stay in Resort hotel.
 (4) Most of the guests came from european countries, with most of guests coming from Portugal.
